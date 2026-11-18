@@ -2341,5 +2341,37 @@ Scripture tells us that "we are joint heirs with Christ" (Romans 8:17), meaning 
                 text: `This means we are the showcase of God's glory. For the world to see and glorify His name, they look at us—the living proof of His grace, His kindness, and His abundance. Because God knows we represent the hope of His glory through Christ, He will gladly provide all that we ask for in alignment with Him.`
             }
         ]
+    },
+    {
+        id: 42,
+        slug: "the-dangers-of-familiarity",
+        title: "The Dangers of Familiarity",
+        image: "/familiarity.jpg",
+        date: "November 18, 2026",
+        readTime: "6 min read",
+        category: "Spiritual Growth",
+        author: "Chizzy",
+        excerpt: "In a small town, there was a young man so filled with the Spirit of God that he went about doing good. Yet, when he arrived in his hometown, he could not do any mighty work. He could not give his people all that he had to offer—not because he did not want to, but because they were too familiar with him. They only knew him as the carpenter’s son. This article explores how familiarity can hinder our spiritual growth and our ability to receive from God.",
+        content: [
+            {
+                type: "paragraph",
+                text: "In a small town, there was a young man so filled with the Spirit of God that he went about doing good. Yet, when he arrived in his hometown, he could not do any mighty work. He could not give his people all that he had to offer—not because he did not want to, but because they were too familiar with him. They only knew him as the carpenter’s son."
+            },
+            {
+                type: "paragraph",
+                text: `"The carpenter's son? The young boy who used to help his father? How come he is saying all these things? Who does he think he is?"
+These statements came from a place of familiarity.
+Do you know that as Christians, we can become so familiar with God's presence that we are no longer able to receive from Him? This is no joke. The people in Jesus' hometown could not receive from Him because they felt they had already seen all there was to see. "Oh, just the carpenter's son!"`
+            },
+            {
+                type: "paragraph",
+                text: `A young Christian who has spent time in the house of God, seen His power, and learned His ways has a tendency to become overly familiar—especially when mighty things are happening regularly. With eyes wide open, they begin to think, "We see this all the time." Slowly, you stop feeling the same awe in God's presence, and you become desensitized.`
+            },
+            {
+                type: "paragraph",
+                text: `Desensitization in God's house is a terrible thing.
+The devil is not happy about who we are in Christ. That is why he fights us even harder once we realize our identity and become deeply rooted in God. Because he cannot make us backslide easily, he slowly lulls us into familiarity. In doing so, he blocks us from receiving from God.`
+            }
+        ]
     }
 ]
