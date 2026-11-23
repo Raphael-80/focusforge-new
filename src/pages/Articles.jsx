@@ -76,7 +76,7 @@ export default function Articles() {
               mb-6
             "
                         >
-                            The ChizzyWrites Journal
+                            The FocusForge Journal
                         </p>
 
                         <div

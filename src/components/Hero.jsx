@@ -36,11 +36,11 @@ const Hero = () => {
                             transition={{ duration: 0.8 }}
                         >
                             <h1 className="font-serif text-[4.5rem] font-medium leading-[0.78] tracking-[-0.065em] text-[#171717] sm:text-[6rem] md:text-[7rem] lg:text-[9rem] xl:text-[10rem]">
-                                chizzy
+                                focus
                                 <br />
 
                                 <span className="ml-[12%] italic font-normal">
-                                    writes
+                                    forge
                                 </span>
                             </h1>
                         </motion.div>

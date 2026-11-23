@@ -19,7 +19,7 @@ export default function Footer() {
                             to="/"
                             className="heading-font text-3xl tracking-tight inline-block mb-6"
                         >
-                            ChizzyWrites<span className="text-[#b7791f]">.</span>
+                            FocusForge<span className="text-[#b7791f]">.</span>
                         </Link>
 
                         <p className="max-w-sm text-white/60 leading-7 text-sm">
@@ -85,35 +85,21 @@ export default function Footer() {
                                 to="/categories?topic=technology"
                                 className="hover:text-white transition-colors"
                             >
-                                Technology
+                                Inner Alignment
                             </Link>
 
                             <Link
                                 to="/categories?topic=business"
                                 className="hover:text-white transition-colors"
                             >
-                                Business
+                                Self Development
                             </Link>
 
                             <Link
-                                to="/categories?topic=life"
+                                to="/categories?topic=fun-hub"
                                 className="hover:text-white transition-colors"
                             >
-                                Life
-                            </Link>
-
-                            <Link
-                                to="/categories?topic=culture"
-                                className="hover:text-white transition-colors"
-                            >
-                                Culture
-                            </Link>
-
-                            <Link
-                                to="/categories?topic=ideas"
-                                className="hover:text-white transition-colors"
-                            >
-                                Ideas
+                                Fun Hub
                             </Link>
                         </div>
                     </div>
@@ -188,7 +174,7 @@ export default function Footer() {
                 {/* Bottom */}
                 <div className="border-t border-white/10 mt-12 pt-7 flex flex-col md:flex-row items-center justify-between gap-5">
                     <p className="text-xs text-white/40">
-                        © {new Date().getFullYear()} ChizzyWrites. All rights reserved.
+                        © {new Date().getFullYear()} FocusForge. All rights reserved.
                     </p>
 
                     <div className="flex items-center gap-6 text-xs text-white/40">

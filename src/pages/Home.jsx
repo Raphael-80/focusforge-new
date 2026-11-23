@@ -59,7 +59,7 @@ text-[#b7791f]
 font-semibold
 mb-6
 ">
-                                ChizzyWrites
+                                FocusForge
                             </p>
 
                             <h1 className="
@@ -87,9 +87,8 @@ text-black/60
 dark:text-white/60
 mb-10
 ">
-                                Thought-provoking articles about technology,
-                                life, creativity, culture and the ideas shaping
-                                the world around us.
+                                Dive into a world where you get to read articles and stories on
+                                being a better you & having a stronger inner alignment with God.
                             </p>
 
                             <Link
@@ -275,14 +274,9 @@ lg:grid-cols-6
 gap-4
 ">
                             {[
-                                "Technology",
-                                "Business",
-                                "Life",
-                                "Culture",
-                                "Ideas",
-                                "Spiritual Growth",
-                                "Health",
-                                "Personal",
+                                "Self Development",
+                                "Inner Alignment",
+                                "Fun Hub"
                             ].map((topic) => (
 
                                 <Link

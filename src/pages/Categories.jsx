@@ -7,19 +7,9 @@ import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 
 const categories = [
-    "Technology",
-    "Mindset",
-    "Life",
-    "Self Discovery",
-    "Politics",
-    "Spiritual Growth",
-    "Mental Health",
-    "Personal Growth",
-    "Physical Health",
-    "Character Development",
-    "Relationships",
-    "Social Issues",
-    "Career"
+    "Self Development",
+    "Inner Alignment",
+    "Fun Hub"
 ];
 
 export default function Categories() {

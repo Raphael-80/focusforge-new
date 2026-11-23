@@ -6,10 +6,9 @@ export const articles = [
         image: "/sleep_img.jpg",
         date: "July 6, 2025",
         readTime: "5 min read",
-        category: "Life",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "Discover how developing an early-rising routine can improve your time management, clarity, productivity, creativity and overall approach to the day.",
-        featured: true,
         content: [
             {
                 type: "paragraph",
@@ -59,7 +58,7 @@ export const articles = [
         image: "/silence.jpg",
         date: "July 5, 2025",
         readTime: "7 min read",
-        category: "Life",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "In a world saturated with noise, silence is often misunderstood as weakness or avoidance. But when used wisely, silence can become a powerful tool for emotional control, conflict resolution, listening, and healthier relationships.",
         content: [
@@ -127,7 +126,7 @@ export const articles = [
         image: "/believe.jpg",
         date: "July 6, 2025",
         readTime: "5 min read",
-        category: "Mindset",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "Discover how to break through self-doubt, overcome fear, and build the unshakable confidence needed to face challenges, trust yourself, and move boldly toward your goals.",
         content: [
@@ -165,7 +164,7 @@ Confidence isn't born; it's built. It's the foundation of living a full, courage
         image: "/mask.jpg",
         date: "July 19, 2025",
         readTime: "7 min read",
-        category: "Self Discovery",
+        category: "Self Development",
         author: "Chizzy",
         excerpt:"Explore the different versions of ourselves we present to the world, why we mask certain parts of our personality, and what it takes to embrace our authentic self.",
         content: [
@@ -221,7 +220,7 @@ Stay tuned for our next article, where we'll be unlocking the characteristics of
         image: "/toxic.jpg",
         date: "July 25, 2025",
         readTime: "5 min read",
-        category: "Mindset",
+        category: "Self Development",
         author: "Chizzy",
         excerpt:"Learn why leaving toxic environments is not a sign of weakness, but an act of self-respect and how walking away can create space for growth, peace, and a healthier version of yourself.",
         content: [
@@ -308,7 +307,7 @@ But here's the thing: you have the power to break free. My friend's story is a t
         image: "/politics.jpg",
         date: "July 30, 2025",
         readTime: "8 min read",
-        category: "Politics",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Explore the forces behind political power, influence, and control and question whether the true winners are the people, the politicians, or those uietly shaping the system from behind the scenes.",
         content: [
@@ -412,7 +411,7 @@ The one who enters with purpose, serves with courage, and exits with honor.`
         image: "/mask.jpg",
         date: "August 2, 2025",
         readTime: "5 min read",
-        category: "Self Discovery",
+        category: "Self Development",
         author: "Chizzy",
         excerpt:"Continue to explore the different versions of ourselves we present to the world, why we mask certain parts of our personality, and what it takes to embrace our authentic self.",
         content: [
@@ -595,7 +594,7 @@ Weakness: Avoids serious topics or responsibilities. `
         image: "/ghost2.jpg",
         date: "August 4, 2025",
         readTime: "5 min read",
-        category: "Relationships",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Explore the psychology behind ghosting, why people suddenly disappear without explanation, and what their silence can reveal about communication, emotional avoidance, and modern relationships",
         content: [
@@ -673,7 +672,7 @@ Inorder to appear even more valuable learn to ignore act like u didn't know you 
         image: "/integrity.jpg",
         date: "August 4, 2025",
         readTime: "5 min read",
-        category: "Character Development",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "Explore what it truly means to live with integrity—doing what is right even when no one is watching, standing by your values, and building a life where your actions align with your principles.",
         content: [
@@ -728,7 +727,7 @@ Today, especially in Africa, it is hard to find people with integrity. Yet, thos
         image: "/decision.jpg",
         date: "August9, 2025",
         readTime: "6 min read",
-        category: "Personal Growth",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "Every choice shapes the person we become. Explore the power of decision-making, how small choices create lasting consequences, and why taking responsibility for our decisions is essential to building the life we want.",
         content: [
@@ -787,7 +786,7 @@ Because life isn’t about waiting for the perfect moment — it’s about creat
         image: "/Jesus.jpg",
         date: "August 17, 2025",
         readTime: "6 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
         excerpt: "Explore what it means to reconnect with God, confront the choices that have pulled you away, and begin a sincere journey toward repentance, faith, forgiveness, and spiritual renewal.",
         content: [
@@ -839,7 +838,7 @@ The journey of walking with Christ is not easy. It’s narrow, painful at times,
         image: "/forgive.jpg",
         date: "August 17, 2025",
         readTime: "6 min read",
-        category: "Personal Growth",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "Forgiveness is not about pretending the hurt never happened. It is about releasing the weight of resentment, finding peace within yourself, and choosing not to let past wounds control your future.",
         content: [
@@ -892,7 +891,7 @@ Don’t keep throwing stones on a road that leads nowhere. Let go, and let bette
         image: "/politics.jpg",
         date: "August 23, 2025",
         readTime: "6 min read",
-        category: "Personal Growth",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "Most people see “acting dumb” as a weakness, but in reality, it can be one of the smartest strategies in life. While being openly smart often attracts envy, competition, and unnecessary pressure, acting less knowledgeable can give you surprising advantages. Explore the hidden power of acting dumb. Sometimes the smartest move is to stay underestimated and let your results speak.",
         content: [
@@ -949,7 +948,7 @@ Don’t keep throwing stones on a road that leads nowhere. Let go, and let bette
         image: "/mental-2.jpg",
         date: "August 23, 2025",
         readTime: "6 min read",
-        category: "Mental Health",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Your mind shapes how you think, respond, connect, and navigate life. Explore why protecting your mental health is essential for resilience, clarity, healthy relationships, and building a fulfilling life.",
         content: [
@@ -1020,7 +1019,7 @@ Peace is impossible without inner peace. And inner peace begins with mental heal
         image: "/depressed-1.jpg",
         date: "August 26, 2025",
         readTime: "6 min read",
-        category: "Mental Health",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Depression can be difficult to recognize, both in yourself and in those around you. Learn the warning signs, understand when everyday struggles may be something more serious, and discover why seeking support matters.",
         content: [
@@ -1073,7 +1072,7 @@ Peace is impossible without inner peace. And inner peace begins with mental heal
         image: "/water.jpg",
         date: "August 29, 2025",
         readTime: "6 min read",
-        category: "Physical Health",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Starting your morning with water is a simple habit that can help replenish fluids lost during sleep and support hydration, digestion, energy, and overall wellbeing throughout the day.",
         content: [
@@ -1119,7 +1118,7 @@ That’s exactly what you do to your stomach every morning when you rush into ta
         image: "/skin.jpg",
         date: "August 29, 2025",
         readTime: "5 min read",
-        category: "Physical Health",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Skincare doesn’t have to be complicated. Discover a simple beginner-friendly routine, how to understand your skin’s needs, and how to build consistent habits that help you feel confident in your own skin.",
         content: [
@@ -1225,7 +1224,7 @@ That’s exactly what you do to your stomach every morning when you rush into ta
         image: "/self.jpg",
         date: "Aug 30, 2025",
         readTime: "6 min read",
-        category: "Physical Health",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "After a long day, your evening routine can either add to your stress or help you reset. Discover 5 practical self-care habits that can help you unwind, recharge, and prepare for a better tomorrow.",
         content: [
@@ -1272,7 +1271,7 @@ That’s exactly what you do to your stomach every morning when you rush into ta
         image: "/tummy3.jpg",
         date: "September 4, 2025",
         readTime: "5 min read",
-        category: "Physical Health",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Bloating is a common issue that can make you feel uncomfortable and affect your confidence. Learn about the causes of bloating and discover practical ways to reduce it for a flatter tummy.",
         content: [
@@ -1325,7 +1324,7 @@ That’s exactly what you do to your stomach every morning when you rush into ta
         image: "/stress.jpg",
         date: "September 5, 2025",
         readTime: "6 min read",
-        category: "Mental Health",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Stress is a silent epidemic affecting millions worldwide. Learn how chronic stress can impact your physical and mental health, and discover practical strategies to manage it effectively.",
         content: [
@@ -1437,7 +1436,7 @@ That’s exactly what you do to your stomach every morning when you rush into ta
         image: "/love.jpg",
         date: "September 17, 2025",
         readTime: "5 min read",
-        category: "Relationships",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Love is a powerful force that shapes our lives, relationships, and personal growth. Explore the different dimensions of love, from self-love to romantic connections, and discover how to cultivate meaningful bonds.",
         content: [
@@ -1503,7 +1502,7 @@ That’s exactly what you do to your stomach every morning when you rush into ta
         image: "/right1.jpg",
         date: "November 10, 2025",
         readTime: "6 min read",
-        category: "Social Issues",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Sexual child abuse is a grave violation of a child's rights and can have long-lasting effects on their physical, emotional, and psychological well-being. This article sheds light on the importance of justice for victims like Ochanya and the need for societal awareness and action.",
         content: [
@@ -1546,7 +1545,7 @@ This is why parents must learn to control childbirth. Many complain about hunger
         image: "/patience.jpg",
         date: "November 19, 2025",
         readTime: "5 min read",
-        category: "Personal Growth",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "In a world that glorifies instant gratification, patience has become a rare virtue. This article explores the importance of embracing patience, understanding its benefits, and learning how to cultivate it in our daily lives.",
         content: [
@@ -1571,7 +1570,7 @@ This waiting room isn’t meant to break you. It’s meant to prepare you; for b
         image: "/hobby.jpg",
         date: "November 20, 2025",
         readTime: "6 min read",
-        category: "Career",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Discover how students can turn their hobbies into profitable ventures without compromising their studies.",
         content: [
@@ -1608,7 +1607,7 @@ This waiting room isn’t meant to break you. It’s meant to prepare you; for b
         image: "/success.jpg",
         date: "November 25, 2025",
         readTime: "6 min read",
-        category: "Personal Growth",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "Success is not just about hard work; it's about mindset and approach. Discover five powerful shifts in thinking and behavior that can help you achieve success more naturally and effortlessly.",
         content: [
@@ -1647,7 +1646,7 @@ This waiting room isn’t meant to break you. It’s meant to prepare you; for b
         image: "/bible.jpg",
         date: "April 16, 2026",
         readTime: "5 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
         excerpt: "Transformation is a journey of growth and change, often guided by faith and spiritual principles. This article explores the concept of godly transformation, emphasizing the importance of aligning one's life with divine guidance and values.",
         content: [
@@ -1668,7 +1667,7 @@ This waiting room isn’t meant to break you. It’s meant to prepare you; for b
         image: "/authentic.jpg",
         date: "July 1, 2026",
         readTime: "5 min read", 
-        category: "Personal Growth",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "In a world filled with noise and distractions, finding authenticity in the search for truth is a journey of self-discovery and integrity. This article explores the importance of seeking genuine understanding and living in alignment with one's values.",
         content: [
@@ -1693,7 +1692,7 @@ This waiting room isn’t meant to break you. It’s meant to prepare you; for b
         image: "/Human1.jpg",
         date: "July 1, 2026",
         readTime: "5 min read",
-        category: "Technology",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Exploring the question of whether humans are truly smarter than artificial intelligence.",
         content: [
@@ -1745,8 +1744,9 @@ The future belongs to those who never stop learning, adapting, and growing.`
         image: '/Jesus2.jpg',
         date: "July 1, 2026",
         readTime: "5 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
+        featured: true,
         excerpt: "A heartfelt letter to God, expressing gratitude, love, and devotion.",
         content: [
             {
@@ -1762,7 +1762,7 @@ The future belongs to those who never stop learning, adapting, and growing.`
         image: "/cross.jpg",
         date: "July 1, 2026",
         readTime: "6 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
         excerpt: "Exploring the divine calling and its impact on our spiritual journey.",
         content: [
@@ -1779,7 +1779,7 @@ The future belongs to those who never stop learning, adapting, and growing.`
         image: "/cross.jpg",
         date: "August 18, 2026",
         readTime: "5 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
         excerpt: "Exploring the concept of spiritual elevation and the importance of focusing on higher pursuits rather than worldly desires.",
         content: [
@@ -1802,7 +1802,7 @@ Other countries can easily lend financial aid to those sitting in the government
         image: "/hand.jpg",
         date: "September 15, 2026",
         readTime: "7 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
         excerpt: "Even in our darkest moments, hope remains, reminding us that salvation and a better tomorrow are possible.",
         content: [
@@ -1864,7 +1864,7 @@ So, if you believe in your heart that Jesus Christ died for you and rose again, 
         image: "/God.jpg",
         date: "September 15, 2026",
         readTime: "4 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
         excerpt: "Man may betray, abandon, and change, but God remains faithful, steadfast, and unchanging through every season.",
         content: [
@@ -1895,7 +1895,7 @@ And that is where the treachery of man meets the consistency of God.`
         image: "/obedience2.jpg",
         date: "September 15, 2026",
         readTime: "7 min read",
-        category: "Character Development",
+        category: "Self Development",
         author: "Chizzy",
         excerpt: "Obedience can demand difficult choices, but sometimes the hardest step is trusting that doing right still matters.",
         content: [
@@ -1995,7 +1995,7 @@ And perhaps that's where true determination begins.`
         image: "/nigeria.jpg",
         date: "October 5, 2026",
         readTime: "8 min read",
-        category: "Politics",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Nigeria’s revival cannot be reduced to speeches, slogans, or moments of national excitement. True revival demands confronting the problems that hold the country back from weak institutions and poor infrastructure to corruption, insecurity, and a culture that too often rewards survival over progress. Beyond the noise lies a harder question: what would it actually take to fix Nigeria?",
         content: [
@@ -2041,7 +2041,7 @@ We must also participate in political affairs. If Christians keep insisting that
         image: "/women.jpg",
         date: "October 27, 2026",
         readTime: "6 min read",
-        category: "Society & Culture",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "Standing for women shouldn't depend on the labels we carry or the titles we hold. It's about recognizing inequality, challenging harmful stereotypes, and choosing to speak up when it matters. True advocacy isn't defined by what we call ourselves, but by the values we uphold and the actions we take.",
         content: [
@@ -2088,7 +2088,7 @@ Recognizing the dignity of women, demanding equal respect in relationships, and 
         image: "/fake-news.jpg",
         date: "October 27, 2026",
         readTime: "8 min read",
-        category: "Society & Culture",
+        category: "Fun Hub",
         author: "Chizzy",
         excerpt: "In a world overflowing with information, knowing more doesn't necessarily mean understanding better. We consume facts, opinions, and endless streams of content, yet often mistake awareness for wisdom. This article explores the illusion of knowledge, why information alone cannot empower us, and how true power lies in critical thinking, deep understanding, and the ability to turn what we know into meaningful action.",
         content: [
@@ -2140,7 +2140,7 @@ If we want to see a new reality; whether in our own lives or in Nigeria; we must
         image: "/never-give-up.jpg",
         date: "October 30, 2026",
         readTime: "3 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
         excerpt: "Everything we desire may lie on the other side of the things we avoid. Growth requires sacrifice, greatness demands consistency, and true freedom is often found in the little things we overlook. Through faith in Jesus, discipline, and the quiet practice of what we learn, we discover that lasting transformation doesn't always come from massive efforts, but from small, intentional steps taken every day.",
         content: [
@@ -2160,7 +2160,7 @@ The time we neglect to spend with Jesus, the time we don't spend in His Word, th
         image: "/bread.jpg",
         date: "October 31, 2026",
         readTime: "6 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
         excerpt: "Sometimes, we settle for daily bread when God wants to show us the abundance of His provision. Moving from the daily bread to the whole bakery is about shifting our perspective from survival to purpose, from receiving blessings to understanding the responsibility that comes with them. It challenges us to recognize God's ability to do more than we imagine and to grow in faith, wisdom, and stewardship as we embrace the fullness of what He has prepared for us.",
         content: [
@@ -2209,9 +2209,9 @@ If we want God to go the extra mile for us, we must be willing to go the extra m
         image: "/gay.jpg",
         date: "November 2, 2026",
         readTime: "7 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
-        excerpt: "Navigating same-sex attraction as a Christian can bring questions about faith, identity, and one's relationship with God. This article explores the personal and spiritual challenges that may arise when experiencing same-sex attraction while seeking to remain grounded in Christian beliefs. Through faith, reflection, and a deeper understanding of God's grace, it considers how believers can navigate these experiences with honesty, compassion, and spiritual growth.",
+        excerpt: "Navigating same-sex attraction as a Christian can bring questions about faith, identity, and one's relationship with God. This article explores the personal and spiritual challenges that may arise when experiencing same-sex attraction while seeking to remain grounded in Christian beliefs. Through faith, reflection, and a deeper understanding of God's grace, it considers how believers can navigate these experiences with honesty, compassion, and Inner Alignment.",
         content: [
             {
                 type: "heading",
@@ -2308,7 +2308,7 @@ Keep your heart. Guard your mind. And above all, keep your eyes fixed on Jesus.`
         image: "/cross.jpg",
         date: "November 17, 2026",
         readTime: "5 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
         excerpt: "Understanding our identity in Christ is crucial for living a victorious Christian life. This article explores the biblical foundations of our identity, how it shapes our thoughts, actions, and relationships, and the transformative power of embracing who we are in Him. By grounding ourselves in God's Word, we can overcome challenges, resist negative influences, and walk confidently in the purpose He has designed for us.",
         content: [
@@ -2349,9 +2349,9 @@ Scripture tells us that "we are joint heirs with Christ" (Romans 8:17), meaning 
         image: "/familiarity.jpg",
         date: "November 18, 2026",
         readTime: "6 min read",
-        category: "Spiritual Growth",
+        category: "Inner Alignment",
         author: "Chizzy",
-        excerpt: "In a small town, there was a young man so filled with the Spirit of God that he went about doing good. Yet, when he arrived in his hometown, he could not do any mighty work. He could not give his people all that he had to offer—not because he did not want to, but because they were too familiar with him. They only knew him as the carpenter’s son. This article explores how familiarity can hinder our spiritual growth and our ability to receive from God.",
+        excerpt: "In a small town, there was a young man so filled with the Spirit of God that he went about doing good. Yet, when he arrived in his hometown, he could not do any mighty work. He could not give his people all that he had to offer—not because he did not want to, but because they were too familiar with him. They only knew him as the carpenter’s son. This article explores how familiarity can hinder our Inner Alignment and our ability to receive from God.",
         content: [
             {
                 type: "paragraph",

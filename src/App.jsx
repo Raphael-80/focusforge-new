@@ -6,6 +6,7 @@ import Article from "./pages/Article";
 import Categories from "./pages/Categories";
 import Contact from "./pages/Contact";
 import About from "./pages/About";
+import FunHub from "./pages/FunHub";
 
 import NotFound from "./components/404";
 
@@ -23,6 +24,7 @@ const App = () => {
         <Route path="/categories" element={<Categories />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/about" element={<About />} />
+        <Route path="/funhub" element={<FunHub />} />
 
 
         {/* 404 */}
