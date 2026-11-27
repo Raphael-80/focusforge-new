@@ -87,9 +87,9 @@ text-black/60
 dark:text-white/60
 mb-10
 ">
-                                Dive into a world where you get to read articles and stories on
-                                being a better you & having a stronger inner alignment with God.
-                            </p>
+                                "The world is a global 360, where ideas revolve and not just evolve.
+
+Everything we know today was once known, perhaps as a hypothesis that couldn't be proven or an experiment that was never carried out." - <span className="text-[#b7791f]">Chizzy</span></p>
 
                             <Link
                                 to="/articles"
